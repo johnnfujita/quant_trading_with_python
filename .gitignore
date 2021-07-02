@@ -1,0 +1,6 @@
+data
+env/
+data*
+secrets*
+*__pycache__*
+*egg*
